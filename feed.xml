@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Bytes of Myself</title>
+    <link href="https://bytesofmyself.github.io/feed.xml" rel="self" />
+    <link href="https://bytesofmyself.github.io" />
+    <updated>2023-01-08T22:14:49-05:00</updated>
+    <author>
+        <name>Matt</name>
+    </author>
+    <id>https://bytesofmyself.github.io</id>
+
+    <entry>
+        <title>Utils: .diz, .nfo, .asc</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://bytesofmyself.github.io/diz-nfo-utils.html"/>
+        <id>https://bytesofmyself.github.io/diz-nfo-utils.html</id>
+
+        <updated>2023-01-08T22:14:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    GetDiz Developer:&nbsp;Outertech First Release: 1998 Current version: 4.9.1 (2016) OS: Windows Fonts: Terminal, GetDiz GetDiz - Terminal, Size 6, Black Text on White Background
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h3 id="getdiz">
+      GetDiz
+    </h3>
+
+  <p>
+    <b>Developer</b>:&nbsp;<a href="http://www.outertech.com" target="_blank">Outertech</a><br><b>First Release</b>: 1998<br><b>Current version</b>: 4.9.1 (2016)<br><b>OS: </b>Windows<br><b>Fonts: </b>Terminal, GetDiz<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bytesofmyself.github.io/media/posts/1/raptor-GetDiz_term6_inv.jpg" height="520" width="506" alt=""  sizes="100vw" srcset="https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-xs.jpg 300w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-sm.jpg 480w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-md.jpg 768w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-lg.jpg 1024w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-xl.jpg 1360w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-2xl.jpg 1600w">
+      <figcaption>GetDiz - Terminal, Size 6, Black Text on White Background</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

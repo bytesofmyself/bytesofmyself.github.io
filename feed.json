@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bytes of Myself",
+    "description": "",
+    "home_page_url": "https://bytesofmyself.github.io",
+    "feed_url": "https://bytesofmyself.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matt"
+    },
+    "items": [
+        {
+            "id": "https://bytesofmyself.github.io/diz-nfo-utils.html",
+            "url": "https://bytesofmyself.github.io/diz-nfo-utils.html",
+            "title": "Utils: .diz, .nfo, .asc",
+            "summary": "GetDiz Developer:&nbsp;Outertech First Release: 1998 Current version: 4.9.1 (2016) OS: Windows Fonts: Terminal, GetDiz GetDiz - Terminal, Size 6, Black Text on White Background",
+            "content_html": "\n    <h3 id=\"getdiz\">\n      GetDiz\n    </h3>\n\n  <p>\n    <b>Developer</b>:&nbsp;<a href=\"http://www.outertech.com\" target=\"_blank\">Outertech</a><br><b>First Release</b>: 1998<br><b>Current version</b>: 4.9.1 (2016)<br><b>OS: </b>Windows<br><b>Fonts: </b>Terminal, GetDiz<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://bytesofmyself.github.io/media/posts/1/raptor-GetDiz_term6_inv.jpg\" height=\"520\" width=\"506\" alt=\"\"  sizes=\"100vw\" srcset=\"https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-xs.jpg 300w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-sm.jpg 480w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-md.jpg 768w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-lg.jpg 1024w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-xl.jpg 1360w ,https://bytesofmyself.github.io/media/posts/1/responsive/raptor-GetDiz_term6_inv-2xl.jpg 1600w\">\n      <figcaption>GetDiz - Terminal, Size 6, Black Text on White Background</figcaption>\n    </figure>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-08T20:33:40-05:00",
+            "date_modified": "2023-01-08T22:14:49-05:00"
+        }
+    ]
+}
